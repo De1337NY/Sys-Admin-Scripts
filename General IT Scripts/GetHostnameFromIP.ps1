@@ -1,0 +1,1 @@
+﻿([system.net.dns]::GetHostByAddress('IPADDRESS')).hostname
